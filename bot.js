@@ -30,6 +30,7 @@ if (message.content.includes("Akkai")) {
  } 
   
   
+
 });
 
 // THIS  MUST  BE  THIS  WAY
